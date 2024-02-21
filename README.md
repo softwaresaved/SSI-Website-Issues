@@ -1,4 +1,4 @@
-# READ ME
+# SSI website repository
 
 This is the repository to log issues, bugs, features or content requests for the SSI website. 
 
